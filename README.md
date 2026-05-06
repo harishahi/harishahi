@@ -68,9 +68,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harishahi/harishahi/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SajanPdl/SajanPdl/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 💬 Quote
 
