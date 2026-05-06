@@ -1,22 +1,43 @@
 <!-- 🔥 PREMIUM 3D HEADER -->
 
 <p align="center">
-  <img src="[6.jpg](https://www.pinterest.com/pin/3d-render-abstract-minimal-background-pink-blue-neon-light-round-frame--31947478603479683/)" alt="Hari Shahi" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hari%20Shahi&fontSize=55&color=0:2193b0,50:6dd5ed,100:ffffff&fontColor=000000&animation=fadeIn&desc=ENGINEERING%20STUDENT%&descAlignY=60"/>
 </p>
+
 <!-- ✨ TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Hari+Shahi;Frontend+Developer;I+build+modern+web+apps;Creative+UI+Designer;Always+learning+new+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Hari+Shahi;Frontend+Developer" />
+</p>
+<!--social medias-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hari-shahi-2a567b35b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/harishahi22">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/harishahi22">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:harishahi909@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<!--profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harishahi&label=Profile%20views&color=4E0054&style=flat" />
 </p>
 
----
+
 
 ## 🧑‍💻 About Me
 
-* 🚀 Passionate about modern UI & web apps
-* 🌱 Learning **React + Backend**
-* 🎨 Love clean, animated & responsive designs
-* ⚡ Fun fact: I turn ☕ into code
+- 🌱 I’m learning: Web Development(backend) <br>
+- 💻 I like: Coding & Designing<br>
+- 🎯 Goal: Become a Full Stack Developer<br>
+
+ 
 
 ---
 
@@ -49,33 +70,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harishahi/harishahi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hari-shahi-2a567b35b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/harishahi22">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/harishahi22">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:harishahi909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishahi&label=Profile%20views&color=00F7FF&style=flat" />
 </p>
 
 ---
