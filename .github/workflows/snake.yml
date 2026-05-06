@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 👈 THIS FIXES YOUR ERROR
+  contents: write
 
 jobs:
   generate:
@@ -22,3 +22,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 👈 THIS LINE FIXES EVERYTHING
