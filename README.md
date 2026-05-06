@@ -72,8 +72,6 @@
   <img src="https://raw.githubusercontent.com/harishahi/harishahi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
 ## 💬 Quote
 
 <p align="center">
