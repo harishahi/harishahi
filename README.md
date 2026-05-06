@@ -1,44 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">ENGINEERING STUDENT 🚀</h3>
-
----
-
-## 👨‍💻 About Me
+<h3 align="center">ENGINEERING STUDENT</h3> <br>
+👨‍💻 About Me <br>
 - 🌱 I’m learning: Web Development
 - 💻 I like: Coding & Designing
 - 🎯 Goal: Become a Full Stack Developer
-
----
-
 ## 🛠️ Skills
 - HTML
 - CSS
 - JavaScript (learning...)
-- PHP (learning...)
-
----
-
+PHP (learning...)
+## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;Open+Source+Lover;Always+Learning" /><br> 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=harishahi&show_icons=true&theme=tokyonight)
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-## 🔗 Connect with me
-- 📧 srijalthakuri67@gmail.com
-- 🌐 Portfolio (coming soon)
-## Hi there 👋
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-<!--
-**harishahi/harishahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 portfolio
+coming soon..
 
-Here are some ideas to get you started:
+## 🌐 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link)
+[![Portfolio](https://img.shields.io/badge/Website-black?logo=github)](your-site) <br>
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue) <br>
