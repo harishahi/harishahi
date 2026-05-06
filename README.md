@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I'm Hari</h1>
+<h3 align="center">ENGINEERING STUDENT 🚀</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🌱 I’m learning: Web Development
+- 💻 I like: Coding & Designing
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript (learning...)
+- PHP (learning...)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=harishahi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- 📧 srijalthakuri67@gmail.com
+- 🌐 Portfolio (coming soon)
 ## Hi there 👋
 
 <!--
